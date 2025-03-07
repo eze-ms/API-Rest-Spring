@@ -1,12 +1,7 @@
 # 🚀 API REST con Spring Boot (H2, MySQL, MongoDB)
 
 ## 📄 Descripción  
-Este repositorio contiene **tres versiones** de una API REST desarrollada con **Spring Boot**, que permite gestionar frutas mediante operaciones CRUD.  
-Cada versión utiliza un sistema de persistencia diferente:  
-
-✅ **H2** (Base de datos en memoria).  
-✅ **MySQL** (Base de datos relacional).  
-✅ **MongoDB** (Base de datos NoSQL).  
+Este repositorio contiene tres versiones de una API REST que gestiona frutas mediante operaciones CRUD, con persistencia en H2 (memoria), MySQL y MongoDB. Implementa validaciones, excepciones personalizadas y un GlobalExceptionHandler para manejar errores de forma centralizada.
 
 Todas las versiones incluyen:  
 ✔️ **Spring Boot y Spring Web** para construir la API.  
@@ -29,4 +24,17 @@ Todas las versiones incluyen:
 1️⃣ **Clonar el repositorio:**  
    ```sh
    git clone https://github.com/tu-usuario/API-Rest-Spring.git
-   cd API-Rest-Spring
+   ```
+---
+
+## **📋 Tecnologías**
+🔹 **Spring Boot**
+🔹 **Spring Web** 
+🔹 **Spring Data JPA/MongoDB**
+🔹 **H2**
+🔹 **MySQL** 
+🔹 **MongoDB**
+
+---
+© 2025. Proyecto desarrollado por Ezequiel Macchi Seoane
+
