@@ -42,9 +42,7 @@ La API permite:
 ## **🛠️ Instalación**
 1. **Clonar el repositorio:**
    ```sh
-   git clone https://github.com/tu-usuario/proyecto-h2.git
-   cd proyecto-h2
-   
+   git clone https://github.com/eze-ms/API-Rest-Spring/tree/main/S04T02N01 
 ---
 
 ## **▶️ Ejecución**
