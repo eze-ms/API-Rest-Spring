@@ -47,8 +47,7 @@ La API permite:
 ## **🛠️ Instalación**
 1. **Clonar el repositorio:**
    ```sh
-   git clone https://github.com/tu-usuario/proyecto-mysql.git
-   cd proyecto-mysql
+   git clone https://github.com/eze-ms/API-Rest-Spring/tree/main/S04T02N02%20MySQL
    ```
    
 2. **Configurar la base de datos en application.properties**
