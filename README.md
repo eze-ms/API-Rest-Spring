@@ -23,7 +23,7 @@ Todas las versiones incluyen:
 ## **🛠️ Instalación y Ejecución**  
 1️⃣ **Clonar el repositorio:**  
    ```sh
-   git clone https://github.com/tu-usuario/API-Rest-Spring.git
+   git clone https://github.com/eze-ms/API-Rest-Spring.git
    ```
 ---
 
